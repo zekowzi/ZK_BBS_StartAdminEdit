@@ -1,2 +1,4 @@
-# start_Admin.bat-modifi---Busbetrieb-Simulator
-Déclinaison modifiée du script bat start_Admin comprenant une limitation mémoire de Java.
+# Script start_Admin.bat modifié pour BBS
+Script start_Admin.bat modifié pour Busbetrieb-Simulator, comprenant une limitation mémoire à 128Mo concernant Java, permettant un allègement de la mémoire utilisée par BBS. Merci à Show pour la base initiale.
+
+Kowzii (iwxbe) - 2026
